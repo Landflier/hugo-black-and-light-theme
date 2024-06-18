@@ -16,7 +16,7 @@ A High contrast, text oriented, performant and Javascript-free theme for Hugo.
 ## Installation
 Inside the folder of your Hugo site run:
 ```
-  git submodule add https://github.com/davidhampgonsalves/hugo-black-and-light-theme.git themes/black-and-light
+  git submodule add git@github.com:Landflier/hugo-black-and-light-theme.git themes/black-and-light
 ```
 For more information read the official [setup guide](//gohugo.io/overview/installing/) of Hugo.
 
