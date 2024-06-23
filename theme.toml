@@ -1,12 +1,23 @@
-name = "Black & Light"
+name = "Black and Light"
 license = "GNU3.0"
-licenselink = "https://github.com/davidhampgonsalves/hugo-black-and-light-theme/blob/master/LICENSE"
+licenselink = "https://github.com/Landflier/hugo-black-and-light-theme/blob/master/LICENSE"
 description = "A High contrast, text oriented, performant and Javascript-free theme for Hugo. "
-homepage = "https://github.com/davidhampgonsalves/hugo-black-and-light-theme"
+homepage = "https://github.com/Landflier/hugo-black-and-light-theme"
 tags = ["responsive", "minimal", "simple", "personal", "white"]
 features = ["dark mode"]
 min_version = "0.65.0"
 
+
+# If the theme has a single author
 [author]
-  name = "David Hamp-Gonsalves"
+  name = 'Your name'
+  homepage = 'Your website'
+
+# If porting an existing theme
+[original]
+  author = "David Hamp-Gonsalves"
   homepage = "https://davidhampgonsalves.com"
+  repo = "https://github.com/davidhampgonsalves/hugo-black-and-light-theme"
+
+[author]
+  name = "Vasil Radkov Yordanov"
