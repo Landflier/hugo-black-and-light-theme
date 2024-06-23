@@ -7,12 +7,6 @@ tags = ["responsive", "minimal", "simple", "personal", "white"]
 features = ["dark mode"]
 min_version = "0.65.0"
 
-
-# If the theme has a single author
-[author]
-  name = 'Your name'
-  homepage = 'Your website'
-
 # If porting an existing theme
 [original]
   author = "David Hamp-Gonsalves"
